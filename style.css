@@ -465,6 +465,10 @@ span{
 
 @media (max-width: 768px) {
 
+    body {
+        overflow-x: hidden;
+    }
+
     .navbar {
         position: fixed;
         top: 0;
