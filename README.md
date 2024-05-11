@@ -1,5 +1,4 @@
 ## Portfolio  https://thepraveen-k.github.io/Portfolio/
-
 ## Description
 This is a personal portfolio website created using HTML, CSS, and JavaScript. The portfolio showcases my skills, experiences, and projects. It utilizes Font Awesome icons for visual enhancements and ScrollReveal for scroll animations.
 
