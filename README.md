@@ -7,7 +7,7 @@ HTML
 CSS
 JavaScript
 FontAwesome.com for icons
-ScrollReveal.com for scroll animations
+ScrollReveal.com for scroll animation
 
 ## Features
 Responsive design: The portfolio is designed to be fully responsive across various devices and screen sizes.
